@@ -38,7 +38,6 @@ const MenuSideBar = () => {
 				<div className="py-4 w-[90%] flex align-center justify-center bg-button hover:bg-cyan-600 rounded-full">
 					<Button>Gönder</Button>
 				</div>
-
 			</nav>
 		</div>
 	);
