@@ -1,6 +1,6 @@
 import { Outlet } from "react-router-dom";
 import LeftSideBar from "../layouts/LeftSideBar/LeftSidebar";
-import RightSideBar from "../layouts/RightSidebar";
+import RightSideBar from "../layouts/RightSideBar/RightSidebar";
 const MainComponent = () => {
 	return (
 		<div className="w-[1265px] mx-auto flex">
