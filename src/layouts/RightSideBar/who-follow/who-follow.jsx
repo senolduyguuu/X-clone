@@ -1,5 +1,4 @@
 /* eslint-disable react/jsx-key */
-import Button from "../../../components/ButtonComponent/button";
 import SidebarSection from "../../../components/SideBarSection/SideBrSection";
 import { whoFollowUsers } from "../../../Mock/whoFollowersData";
 
@@ -28,7 +27,7 @@ const WhoFollow = () => {
 								</div>
 							</div>
 							<div>
-								<Button variant="white" size="small">Takip et</Button>
+								<button className="bg-[rgb(239, 243, 244)]">Takip et</button>
 							</div>
 						</button>
 					)

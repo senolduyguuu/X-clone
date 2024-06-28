@@ -11,7 +11,10 @@ export default {
 			},
 			backgroundColor: {
 				button: "rgb(29, 155, 240)"
-			}
+			},
+			colors: {
+				'custom-blue': 'rgb(29, 155, 240)',
+			},
 		},
 	},
 	plugins: [],
